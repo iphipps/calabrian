@@ -8,13 +8,11 @@
 *
 */
 
-@import 'scss/vendor/vendor';
-
-@import 'bourbon/bourbon';
-
-@import 'scss/utilities/utilities';
+@import 'vendor/vendor';
 
 
+
+@import 'utilities/utilities';
 
 
 
@@ -22,7 +20,9 @@
 
 
 
-@import 'scss/dev/blocks/block';
+
+
+@import 'dev/blocks/block';
 
 
 
