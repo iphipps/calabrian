@@ -1,7 +1,7 @@
 {
-  "name": "metascrape",
+  "name": "calabrian",
   "version": "0.0.0",
-  "description": "front end of metascrape project",
+  "description": "front end of calabrian",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://imphipps@bitbucket.org/imphipps/metascrape.git"
   },
-  "author": "Ian Phipps & Matt Kelley",
+  "author": "Ian Phipps",
   "license": "protected",
   "dependencies": {
     "grunt": "~0.4.1"

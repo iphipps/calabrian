@@ -1,7 +1,7 @@
 module.exports = function(grunt) {
 
 	var globalConfig = {
-		theme: 'metascrape',
+		theme: 'calabrian',
 	};
 
 	grunt.initConfig({
